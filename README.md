@@ -1,3 +1,2 @@
-# react_sorting_algorithms
-Webapp visualizing diffrent sorting algorithms
+# React Sorting Algorithms
 Sorting algorithms visualized using React and Pytho with FastAPI.
