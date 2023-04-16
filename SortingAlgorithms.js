@@ -1,4 +1,4 @@
-const color_1 = "#0BC823"
+//const color_1 = "#0BC823"
 const color_2 = "#C4344F"
 const color_3 = "#1A1A1A"
 
@@ -207,7 +207,11 @@ const color_3 = "#1A1A1A"
       while (i < leftArray.length) {
         array[k] = leftArray[i]
         setArray([...array])
-            
+
+        document.getElementById(k).style.backgroundColor = '#C4344F'
+        await sleep(speed);
+        document.getElementById(k).style.backgroundColor = color_3
+
         i++
         k++
       }
@@ -279,7 +283,7 @@ const color_3 = "#1A1A1A"
     let max = 0
     for (let i = arrayLength; i > 1; i--){
       max = await searchMax(array, i)
-      if (max != i - 1) {
+      if (max !== i - 1) {
         await flip(array, setArray, max, speed)
         await flip(array, setArray, i - 1, speed)
             
@@ -289,9 +293,3 @@ const color_3 = "#1A1A1A"
       }     
     }
   }
-
-
-  
-  
-
-  
