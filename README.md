@@ -3,14 +3,15 @@ Sorting algorithms visualized using React, Python and FastAPI.
 The code is written to be included in a more coplex website containing more than one aplication. 
 ![image](https://user-images.githubusercontent.com/118485347/233853643-f53d32b4-2f25-4ea8-8d5e-c333636c53cf.png)
 
+## [Demo available here](https://belkius.com/sort)
 
-# Features
+## Features
 - The user can select the algorithm to visualize.
 - Select the array length.
 - Select the animation speed.
 - Include or exclude duplicates in the generated array.
 
-# Sorting Algorithms
+## Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Quick Sort
@@ -20,7 +21,7 @@ The code is written to be included in a more coplex website containing more than
 - Shell Sort
 - Pancake Sort
 
-# Usage
+## Usage
 1. Clone the repository.
 2. Install the dependencies with npm install.
 3. Run the application with npm start.
