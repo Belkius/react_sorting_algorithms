@@ -1,12 +1,14 @@
 # React Sorting Algorithms
 Sorting algorithms visualized using React, Python and FastAPI.
 The code is written to be included in a more coplex website containing more than one aplication. 
+![image](https://user-images.githubusercontent.com/118485347/233853643-f53d32b4-2f25-4ea8-8d5e-c333636c53cf.png)
+
 
 # Features
 - The user can select the algorithm to visualize.
-- The user can select the array length.
-- The user can select the animation speed.
-- The user can include or exclude duplicates in the generated array.
+- Select the array length.
+- Select the animation speed.
+- Include or exclude duplicates in the generated array.
 
 # Sorting Algorithms
 - Bubble Sort
