@@ -1,9 +1,9 @@
 # React Sorting Algorithms
-Sorting algorithms visualized using React, Python and FastAPI.
-The code is written to be included in a more coplex website containing more than one aplication. 
+This is a web application built with React that allows you to visualize different sorting algorithms. The visualization shows how the array is sorted step-by-step in a intuitive way. The application also provides options for adjusting the array length, animation speed, and enabling/disabling duplicates.
 ![image](https://user-images.githubusercontent.com/118485347/233853643-f53d32b4-2f25-4ea8-8d5e-c333636c53cf.png)
 
-## [Demo available here](https://belkius.com/sort)
+## Demo
+[Sorting Algorithms Visualization Demo](https://belkius.com/sort)
 
 ## Features
 - The user can select the algorithm to visualize.
